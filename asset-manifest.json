@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/journal-web/static/js/main.1b1ec1fd.chunk.js",
+    "main.js.map": "/journal-web/static/js/main.1b1ec1fd.chunk.js.map",
+    "runtime-main.js": "/journal-web/static/js/runtime-main.314ba360.js",
+    "runtime-main.js.map": "/journal-web/static/js/runtime-main.314ba360.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/journal-web/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.68408dae.chunk.js": "/journal-web/static/js/2.68408dae.chunk.js",
+    "static/js/2.68408dae.chunk.js.map": "/journal-web/static/js/2.68408dae.chunk.js.map",
+    "index.html": "/journal-web/index.html",
+    "precache-manifest.56c00e8a01b6a8f99c0325fc078a2691.js": "/journal-web/precache-manifest.56c00e8a01b6a8f99c0325fc078a2691.js",
+    "service-worker.js": "/journal-web/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/journal-web/static/css/2.b0bb7f2c.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.314ba360.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.68408dae.chunk.js",
+    "static/js/main.1b1ec1fd.chunk.js"
+  ]
+}
